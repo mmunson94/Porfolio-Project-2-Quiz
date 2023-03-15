@@ -6,6 +6,7 @@ The quiz has a set of intermediate to more challenging questions depending on th
 
 Link to live site - https://mmunson94.github.io/Porfolio-Project-2-Quiz/
 
+<img width="1439" alt="Screenshot 2023-03-15 at 20 43 53" src="https://user-images.githubusercontent.com/114744383/225447661-89208470-ca44-4507-a4d6-8e0097d0faf7.png">
 
 ## Index - Table of Contents
   * Design
