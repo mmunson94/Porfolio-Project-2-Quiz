@@ -49,7 +49,7 @@ I have tested the website using multiple validators to ensure performance and co
 
 - Javascript Validator 
 
--Lighthouse Chrome extension
+- Lighthouse Chrome extension
 
 ## Deployment
  
