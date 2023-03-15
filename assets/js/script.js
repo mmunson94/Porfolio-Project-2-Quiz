@@ -94,7 +94,16 @@ function ShowNextQuestion() {
     answerButtonFour.textContent = currentQuestion.answers[3];
 }
 
-function NextQuestion();
+
+function NextQuestion() {
+    if (currentQuestionIndex < questions.length - 1) {
+        currentQuestionIndex++;
+        ShowNextQuestion();
+    } else {
+        EndGame();
+    }
+   
+}
 
 function CheckAnswer();
 
