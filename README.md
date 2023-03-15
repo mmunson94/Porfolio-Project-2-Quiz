@@ -18,7 +18,7 @@ Link to live site - https://mmunson94.github.io/Porfolio-Project-2-Quiz/
   
 ## Design 
 
-The approach in the design of this site was intended to allow users to enjoy a clear, simple and appropriately themed quiz game tests users knowledge on trivia questions around the football club of Manchester United. This website would therefore primarily targetted for Manchester United fans and football fans in general, secondary.
+The approach in the design of this site was intended to allow users to enjoy a clear, simple and appropriately themed quiz game tests users knowledge on trivia questions around the football club of Manchester United. This website would therefore be primarily targetted for Manchester United fans and football fans in general, secondary.
 
 The website is created to entertain Manchester United fans and test their knowledge on the club. I did this by incorporating themes and the badge  of the club in order to ensure the attractiveness of the website.
 
