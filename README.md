@@ -53,6 +53,7 @@ I have tested the website using multiple validators to ensure performance and co
 
 - Javascript Validator 
 
+<img width="1436" alt="Screenshot 2023-03-15 at 20 51 29" src="https://user-images.githubusercontent.com/114744383/225449524-cb80e1dd-f1a2-4275-ab80-e4a7902d2533.png">
 
 
 - Lighthouse Chrome extension
