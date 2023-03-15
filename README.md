@@ -38,6 +38,16 @@ Upon completion of the quiz, the user shall be notified that the quiz is complet
 
 ## Testing
 
+I have tested the website using multiple validators to ensure performance and code is valid:
+
+- W3C CSS Validator
+
+- Nu HTML Checker
+
+- Javascript Validator 
+
+-Lighthouse Chrome extension
+
 ## Deployment
  
 The site was deployed to Github pages. The steps to deploy are as follows:
