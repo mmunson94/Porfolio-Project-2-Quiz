@@ -77,9 +77,22 @@ let currentQuestionIndex = 0;
 let correctScore = 0;
 let incorrectScore = 0;
 
-function StartGame();
 
-function ShowNextQuestion();
+function StartGame() {
+    questionContainer.classList.remove('hidden');
+    nextButton.classList.remove('hidden');
+    ShowNextQuestion();
+}
+
+function ShowNextQuestion() {
+    startButton.classList.add('hidden');
+    let currentQuestion = questions[currentQuestionIndex]; 
+    questionElement.textContent = currentQuestion.question;
+    answerButtonOne.textContent = currentQuestion.answers[0];
+    answerButtonTwo.textContent = currentQuestion.answers[1];
+    answerButtonThree.textContent = currentQuestion.answers[2];
+    answerButtonFour.textContent = currentQuestion.answers[3];
+}
 
 function NextQuestion();
 
