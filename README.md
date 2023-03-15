@@ -47,6 +47,10 @@ I have tested the website using multiple validators to ensure performance and co
 
 - Nu HTML Checker
 
+
+<img width="1438" alt="Screenshot 2023-03-15 at 15 49 52" src="https://user-images.githubusercontent.com/114744383/225449106-ef7a221a-9433-4101-b04f-338a28319b28.png">
+
+
 - Javascript Validator 
 
 - Lighthouse Chrome extension
