@@ -28,6 +28,7 @@ The site has one main page and your initial visual upon entering the site are th
 
 Upon completion of the quiz, the user shall be notified that the quiz is complete and all the question shall be printed under the container. 
 
+<img width="1439" alt="Screenshot 2023-03-15 at 20 44 41" src="https://user-images.githubusercontent.com/114744383/225447800-7ec0152f-a71c-4ecb-b00a-84446a811f0a.png">
 
 ## Technologies Used
 
