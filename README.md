@@ -30,7 +30,9 @@ Upon completion of the quiz, the user shall be notified that the quiz is complet
 
 ## Technologies Used
 
-
+- HTML
+- CSS
+- Javascript
 
 ## Testing
 
