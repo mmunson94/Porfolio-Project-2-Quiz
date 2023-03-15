@@ -120,7 +120,10 @@ function CheckAnswer(userInput) {
     console.log('incorrect score = ' + incorrectScore);
 }
 
-function IncrementCorrectScore();
+function IncrementCorrectScore() {
+    correctScore++;
+    correctScoreElement.innerText = correctScore;
+}
 
 function IncrementIncorrectScore();
 
