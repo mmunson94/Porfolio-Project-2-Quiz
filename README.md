@@ -84,6 +84,6 @@ Code
  - W3Schools.com
  - Web dev simplified (youtube)
 
-Acknowledgement
+## Acknowledgement
 
 Thankyou Brian Macharia for the time and feedback he provided.
