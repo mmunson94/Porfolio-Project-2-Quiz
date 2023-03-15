@@ -42,6 +42,9 @@ I have tested the website using multiple validators to ensure performance and co
 
 - W3C CSS Validator
 
+<img width="1440" alt="Screenshot 2023-03-15 at 15 43 46" src="https://user-images.githubusercontent.com/114744383/225448863-074d417d-f0dd-4941-95a4-10c7dcbc28e0.png">
+
+
 - Nu HTML Checker
 
 - Javascript Validator 
