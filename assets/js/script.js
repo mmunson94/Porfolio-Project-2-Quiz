@@ -62,6 +62,17 @@ const questions = [
 
 ];
 
+const questionContainer = document.getElementById("question-container");
+const questionElement = document.getElementById('question');
+const startButton = document.getElementById('start-btn');
+const nextButton = document.getElementById('next-btn');
+const answerButtonOne = document.getElementById('answer-btn-1');
+const answerButtonTwo = document.getElementById('answer-btn-2');
+const answerButtonThree = document.getElementById('answer-btn-3');
+const answerButtonFour = document.getElementById('answer-btn-4');
+const correctScoreElement = document.getElementById('score-correct');
+const incorrectScoreElement = document.getElementById('score-incorrect');
+
 function StartGame();
 
 function ShowNextQuestion();
