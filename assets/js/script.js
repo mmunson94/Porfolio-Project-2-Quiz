@@ -125,6 +125,9 @@ function IncrementCorrectScore() {
     correctScoreElement.innerText = correctScore;
 }
 
-function IncrementIncorrectScore();
+function IncrementIncorrectScore() {
+    incorrectScore++;
+    incorrectScoreElement.innerText = incorrectScore;
+}
 
 function EndGame();
