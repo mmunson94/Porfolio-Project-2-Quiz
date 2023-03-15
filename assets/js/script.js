@@ -105,7 +105,20 @@ function NextQuestion() {
    
 }
 
-function CheckAnswer();
+function CheckAnswer(userInput) {
+    console.log(userInput);
+    let currentQuestion = questions[currentQuestionIndex]; 
+    
+    if (userInput == currentQuestion.answerIndex) {
+        IncrementCorrectScore();
+        NextQuestion();
+    } else {
+        IncrementIncorrectScore();
+        NextQuestion();
+    }
+    console.log('correct score = ' + correctScore);
+    console.log('incorrect score = ' + incorrectScore);
+}
 
 function IncrementCorrectScore();
 
