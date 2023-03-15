@@ -46,3 +46,12 @@ The site was deployed to Github pages. The steps to deploy are as follows:
  - Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate successfull          deployment.
  
 ## Credits
+
+Image
+
+ - https://www.pinterest.co.uk/pin/599963981594252023/
+ 
+Code
+
+ - W3Schools.com
+ - Web dev simplified (youtube)
