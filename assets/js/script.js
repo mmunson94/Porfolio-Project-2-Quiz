@@ -130,4 +130,16 @@ function IncrementIncorrectScore() {
     incorrectScoreElement.innerText = incorrectScore;
 }
 
-function EndGame();
+function EndGame() {
+    for (let i = 0; i < questions.length; i++) {
+        document.getElementById('end-game-questions').innerHTML += '<p>'+questions[i].question+'</p>';
+        console.log(questions[i].question);
+
+}
+    if (currentQuestionIndex != questions.length) {
+       alert('You have finished the quiz, Well Done!'); 
+       nextButton.classList.add('hidden');
+       questionContainer.classList.add('hidden');
+
+}
+}
