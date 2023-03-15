@@ -38,4 +38,11 @@ Upon completion of the quiz, the user shall be notified that the quiz is complet
 
 ## Deployment
  
+The site was deployed to Github pages. The steps to deploy are as follows:
+
+ - Log in to GitHub and locate the GitHub Repository.
+ - In the Github repository, navigate to the settings tab
+ - Under the code and automation subsection, select the pages tab
+ - Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate successfull          deployment.
+ 
 ## Credits
