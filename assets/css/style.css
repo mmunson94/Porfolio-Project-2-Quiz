@@ -24,3 +24,20 @@ h1 {
     padding-bottom: 20px;
     padding-top: 20px;
 }
+
+.container {
+    width: 600px;
+    height: 340px;
+    max-width: 80%;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    background: red;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid white;
+    box-shadow: 0 0 10px 2px;
+    min-height: auto;
+}
