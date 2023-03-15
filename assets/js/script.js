@@ -73,6 +73,10 @@ const answerButtonFour = document.getElementById('answer-btn-4');
 const correctScoreElement = document.getElementById('score-correct');
 const incorrectScoreElement = document.getElementById('score-incorrect');
 
+let currentQuestionIndex = 0;
+let correctScore = 0;
+let incorrectScore = 0;
+
 function StartGame();
 
 function ShowNextQuestion();
