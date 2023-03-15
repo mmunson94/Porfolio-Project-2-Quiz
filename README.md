@@ -71,6 +71,8 @@ The site was deployed to Github pages. The steps to deploy are as follows:
  - Under the code and automation subsection, select the pages tab
  - Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate successfull          deployment.
  
+ Link to live site - https://mmunson94.github.io/Porfolio-Project-2-Quiz/ 
+ 
 ## Credits
 
 Image
