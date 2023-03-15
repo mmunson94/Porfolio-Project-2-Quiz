@@ -69,10 +69,8 @@ h1 {
 .btn {
     font-size: 1em;
     width: auto;
-    padding: 0 0 10x;
     background: black;
     border-radius: 10px;
-    border: 50%;
     color: white;
     box-shadow: 0 0 6px 2px; 
     display: grid;
@@ -83,7 +81,6 @@ h1 {
     box-shadow: 0 0 6px 2px; 
     background: black;
     border-radius: 10px;
-    border: 50%;
     color: white;
     font-size: 5em;
 }
@@ -92,7 +89,6 @@ h1 {
     box-shadow: 0 0 6px 2px; 
     background: black;
     border-radius: 10px;
-    border: 50%;
     color: white;
     font-size: 1.6em;
 }
