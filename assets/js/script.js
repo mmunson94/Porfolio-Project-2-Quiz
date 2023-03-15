@@ -19,7 +19,7 @@ const questions = [
     },
     {
         question: "What were Manchester United originally called?",
-        answers: ["F.C. United of Manchester", "Manchester North End F.C.", "Northwhich Manchester Villa F.C.", "Newton Heath LYR"],
+        answers: ["F.C. United of Manchester", "Manchester North End F.C.", "Manchester Villa F.C.", "Newton Heath LYR"],
 
         answerIndex: 3,
     },
