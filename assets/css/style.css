@@ -68,3 +68,22 @@ h1 {
     box-shadow: 0 0 6px 2px; 
     display: grid;
 }
+
+#start-btn {
+    margin-top: 120px;
+    box-shadow: 0 0 6px 2px; 
+    background: black;
+    border-radius: 10px;
+    border: 50%;
+    color: white;
+    font-size: 5em;
+}
+
+#next-btn {
+    box-shadow: 0 0 6px 2px; 
+    background: black;
+    border-radius: 10px;
+    border: 50%;
+    color: white;
+    font-size: 1.6em;
+}
