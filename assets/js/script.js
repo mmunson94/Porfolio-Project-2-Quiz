@@ -61,3 +61,17 @@ const questions = [
     },
 
 ];
+
+function StartGame();
+
+function ShowNextQuestion();
+
+function NextQuestion();
+
+function CheckAnswer();
+
+function IncrementCorrectScore();
+
+function IncrementIncorrectScore();
+
+function EndGame();
